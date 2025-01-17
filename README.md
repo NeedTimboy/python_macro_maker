@@ -1,11 +1,17 @@
 A simple python program to make mouse and space bar macros.
 
-Requires PySimpleGUI and pynput...
+...
 
-pip install PySimpleGUI
+Running .py Requires PySimpleGUI and pynput
 
-*simplifies Python form maker
+...
 
-pip install pynput
+  pip install PySimpleGUI
 
-*allows python to input/make macros
+  *simplifies Python form maker
+
+...
+
+  pip install pynput
+
+  *allows python to input/make macros
